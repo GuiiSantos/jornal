@@ -1,0 +1,4 @@
+*{margin: 0px; padding: 0px;}
+
+.login{display: flex; justify-content: center; align-items: center; height: 100vh; background: rgba(191, 191, 191, 0.15); }
+.login .login-form {background: white; padding: 20px 15px; border-radius: 10px}
